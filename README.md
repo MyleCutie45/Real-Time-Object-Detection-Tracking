@@ -17,18 +17,6 @@ A real-time object tracking system using **YOLOv8** for object detection and **S
 * OpenCV
 * SORT Algorithm
 
-## Installation
-
-```bash
-pip install ultralytics opencv-python filterpy
-```
-
-## Run the Project
-
-```bash
-python main.py
-```
-
 ## Workflow
 
 Video Input → YOLOv8 Detection → SORT Tracking → Real-time Output Display
